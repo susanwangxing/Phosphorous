@@ -1,9 +1,11 @@
 Files:
 1. parse.py: parses the lambda_scramble.fa file to obtain the gene sequences
 2. gene sequence.txt: the result sequence after processing lambda_scramble.fa using parse.py
-2. getResult.py: processes lambda_virus.fa to produce the correct full virus genome from enterobacteria phage lambda
-3. challenge.java: the main java file that contains the functions for Part A, B and C of the challenge
-4. correct gene.txt: the correct DNA sequence processed running getResult.py on lambda_virus.fa
+3. getResult.py: processes lambda_virus.fa to produce the correct full virus genome from enterobacteria phage lambda
+4. challenge.java: the main java file that contains the functions for Part A, B and C of the challenge
+5. correct gene.txt: the correct DNA sequence processed running getResult.py on lambda_virus.fa
+6. lambda_scramble.fa: file given in Part B
+7. lambda_virus.fa: file given in Part C
 
 Steps and Commands:
 1. Run parse.py: python parse.py
